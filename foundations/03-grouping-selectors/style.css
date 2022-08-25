@@ -1,0 +1,12 @@
+.nangu,
+.pangu {
+  font-size: 28px;
+  font-family: Helvetica, sans-serif, "Times New Roman";
+}
+.nangu {
+  background-color: black;
+  color: white;
+}
+.pangu {
+  background-color: yellow;
+}
